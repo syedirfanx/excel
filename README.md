@@ -1,2 +1,2 @@
 # excel
-Proceed with advance MS Excel
+Proceed with advanced MS Excel
